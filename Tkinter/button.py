@@ -1,13 +1,3 @@
-"""from tkinter import *
-def show():
-    print('true')
-
-root = Tk()
-root.geometry('100x100')
-btn = Button(root, text='Click me', command = show)
-btn.pack(side='right')
-root.mainloop()"""
-
 from tkinter import *
 
 def show():
